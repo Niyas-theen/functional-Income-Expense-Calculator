@@ -24,7 +24,7 @@ The Income Expense Calculator is a web-based application designed to help users 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/income-expense-calculator.git
+  (https://github.com/Niyas-theen/functional-Income-Expense-Calculator.git)
    ```
 
 2. **Navigate to the Project Directory**:
